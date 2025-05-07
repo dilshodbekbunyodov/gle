@@ -1,0 +1,4 @@
+const PhoneInput_vue_vue_type_style_index_0_lang = ".vti__input{box-shadow:none!important;color:#fff!important;outline:none!important}.vti__dropdown-arrow{color:#fff}.vti__input::-moz-placeholder{color:#fff}.vti__input::placeholder{color:#fff}.vue-tel-input input:focus{border:none;box-shadow:none!important}.vti__dropdown:hover{background-color:transparent!important}.input-field{border-bottom:1px solid #ffffff80!important;box-shadow:none!important;outline:none!important;padding:17px 2px!important}.input-field::-moz-placeholder{color:#fff!important;font-size:18px;font-weight:400;letter-spacing:0;line-height:100%}.input-field::placeholder{color:#fff!important;font-size:18px;font-weight:400;letter-spacing:0;line-height:100%}";
+
+export { PhoneInput_vue_vue_type_style_index_0_lang as P };
+//# sourceMappingURL=PhoneInput-styles-1.mjs.mjs.map
